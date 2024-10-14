@@ -1,6 +1,6 @@
 ## Oii, Eu sou o Renato
 
-<h2>Eu sou Renato, sou um estudante dedicado de Desenvolvimento de Sistemas na ETEC Basilides de Godoy, atualmente no primeiro ano do curso integrado ao ensino médio.
+<h2>Sou um estudante dedicado de Desenvolvimento de Sistemas na ETEC Basilides de Godoy, atualmente no primeiro ano do curso integrado ao ensino médio.
 
 Tenho uma capacidade de comunicação eficaz e maturidade que me permitem trabalhar bem em equipe, enquanto minha inteligência emocional me ajuda a lidar com desafios e tomar decisões sob pressão.
 Sou uma pessoa muito proativa e com desejo e humildade de aprender mais.</h2>
